@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prahlad</h1>
 <h3 align="center">A passionate ML, Full Stack Developer and Gen AI enthusiast.</h3>
 
-- 🔭 I’m currently working on [CBT Website](https://github.com/PrahladMV/CBT-Website-For-MDDTI)
+- 🔭 I’m currently working on **A ML and IOT model to diagnose Stress through Heart rate**
 
 - 🌱 I’m currently learning **Machine learning algorithms, Fine Tuning LLM'S, Data Analytics and DSA**
 
